@@ -17,5 +17,6 @@ Operation
 6. Click 'Read'
 7. Input 'Set value'
 8. Click 'SV Update'
-Zero button is zero
-End is close the program
+<br>
+Zero button is zero. <br>
+End button enabled under disconnect state closes the program.
