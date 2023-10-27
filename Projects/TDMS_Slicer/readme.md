@@ -15,7 +15,7 @@ Control next to Next CH button: go to entered CH<br>
 Control next to Next Set button: go to entered Set<br>
 Save button: Save shown set data as TDMS file<br>
 Character Control: Save file name without .tdms<br>
-Save file path: Application path\TDMS_Sliced\Sliced_%Y%m%d_%H%M%S_"file name".tdms
+Save file path: Application path\TDMS_Sliced\Sliced_%Y%m%d_%H%M%S_"file name".tdms<br>
 Tach CH: Tachometer channel to indicate rpm<br>
 END: Close program<br>
 <br>
