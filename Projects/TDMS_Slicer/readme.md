@@ -2,13 +2,13 @@ Functions
 1. Read a TDMS file and show in graphic format
 2. Save shown data as TDMS file
 
-# of Channel
+'# of Channel
 
 Total_length
 
-# of Sample
+'# of Sample
 
-# of Set
+'# of Set
 
 
 Open: get TDMS path
