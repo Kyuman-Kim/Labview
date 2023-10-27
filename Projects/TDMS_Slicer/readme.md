@@ -2,7 +2,7 @@ Functions
 1. Read a TDMS file and show in graphic format
 2. Save shown data as TDMS file
 
-'# of Channel
+&#35 of Channel
 
 Total_length
 
